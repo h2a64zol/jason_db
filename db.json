@@ -2,6 +2,11 @@
   "progs" : [
   {
     "id": 1,
+    "name": "IBW",
+    "src": "assets/IBW86NET.rar"
+  },
+  {
+    "id": 1,
     "name": "Adobe",
     "src": "assets/AAPDC.rar"
   },
