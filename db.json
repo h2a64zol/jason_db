@@ -2,7 +2,12 @@
   "progs" : [
   {
     "id": 1,
-    "name": "Інфо-Бухгалтер",
-    "src": "./../../SoftServiceStore/assets/images/splash256.png"
+    "name": "Adobe",
+    "src": "assets/AAPDC.rar"
+  }
+  {
+    "id": 2,
+    "name": "MSO",
+    "src": "assets/MSO2007.rar"
   }
 ]}
