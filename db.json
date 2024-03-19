@@ -2,16 +2,21 @@
   "progs" : [
   {
     "id": 1,
-    "name": "IBW",
+    "name": "IBW86NET",
     "src": "assets/IBW86NET.rar"
   },
   {
-    "id": 1,
+    "id": 2,
+    "name": "Ibn",
+    "src": "assets/Ibn.rar"
+  },
+  {
+    "id": 3,
     "name": "Adobe",
     "src": "assets/AAPDC.rar"
   },
   {
-    "id": 2,
+    "id": 4,
     "name": "MSO",
     "src": "assets/MSO2007.rar"
   }
