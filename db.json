@@ -27,7 +27,12 @@
   },
   {
     "id": 6,
-    "name": "ib.png",
-    "src": "assets/images/ib.png"
+    "name": "Word2007.exe",
+    "src": "assets/Word2007.exe"
+  },
+  {
+    "id": 7,
+    "name": "Excel2007.exe",
+    "src": "assets/Excel2007.exe"
   }
 ]}
