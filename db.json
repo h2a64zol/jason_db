@@ -4,42 +4,42 @@
     "id": 1,
     "name": "IBW86NET",
     "src": "assets/IBW86NET.rar",
-    "grp": "0"
+    "grp": "1"
   },
   {
     "id": 2,
     "name": "Ibn",
     "src": "assets/Ibn.rar",
-    "grp": "0"
+    "grp": "1"
   },
   {
     "id": 3,
     "name": "Adobe",
     "src": "assets/AAPDC.rar",
-    "grp": "01"
+    "grp": "12"
   },
   {
     "id": 4,
     "name": "MSO",
     "src": "assets/MSO2007.rar",
-    "grp": "01"
+    "grp": "12"
   },
   {
     "id": 5,
     "name": "AA_v36.rar(123)",
     "src": "assets/AA_v36.rar",
-    "grp": "01"
+    "grp": "12"
   },
   {
     "id": 6,
     "name": "Word2007.exe",
     "src": "assets/Word2007.exe",
-    "grp": "01"
+    "grp": "12"
   },
   {
     "id": 7,
     "name": "Excel2007.exe",
     "src": "assets/Excel2007.exe",
-    "grp": "01"
+    "grp": "12"
   }
 ]}
